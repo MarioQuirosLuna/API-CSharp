@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FzHHQ8ZqtsoN5nJm6WhieU+FUTcYUBLgiuUb5wnTT1+jcGJ4KHFbeuuebFz8bn6XxT+iodJ8CKXg8EK1g2y/WA==",
+  "dgSpecHash": "iwZdB7QLE8B+J/+2TRd0NOpgQdkJKBOgWwI7ONAdI8/VJVnvms1ruPQJqzvzPVg32XJlKi12eTurhQVDW+w3UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Taller Web Preparaión\\AVANZADO\\Ejemplo-Entity\\EntityFramework\\EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Taller Web Preparaión\\AVANZADO\\4. APIS\\Ejemplo-Entity\\EntityFramework\\EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
